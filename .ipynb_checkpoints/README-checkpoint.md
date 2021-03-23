@@ -5,7 +5,7 @@
 
 NH투자증권 AI 경진대회 대회 제작 경과
 <p align="center">
-  <img src="main.png" width="800" height="200" /> 
+  <img src="main.png" width="500" height="500" /> 
 </p>
 
 ## 대회 소개 (Introduction)
@@ -16,10 +16,14 @@ NH투자증권 AI 경진대회 대회 제작 경과
 - 뉴스 본문에서 가짜 정보를 제거하고 진짜 뉴스만 찾는 알고리즘 개발
 
 
+
+
 ## 주최/주관
 
 - 주최/주관: NH 투자증권
 - 운영: 데이콘 
+
+
 
 ## 규칙
 
@@ -31,6 +35,8 @@ NH투자증권 AI 경진대회 대회 제작 경과
 
 
 * 외부 데이터 사용 前 토론 게시판에 문의 要
+
+
 
 
 ## 목차 (Table of Contents)
